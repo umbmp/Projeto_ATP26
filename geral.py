@@ -1,5 +1,9 @@
 import random
 import math
+import matplotlib
+import numpy
+import FreeSimpleGUI
+ 
 
 # Constantes de Eventos
 EVENTO_CHEGADA = "CHEGADA"
